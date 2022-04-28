@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Earlpride
-- 👀 I’m interested in ... coding and drugs
+- 👀 I’m interested in ... coding and taking illicit
 - 🌱 I’m currently learning ... WebDev, C++ and Rust
 - 💞️ I’m looking to collaborate on ... some one on one action
 - 📫 How to reach me ... please don't
