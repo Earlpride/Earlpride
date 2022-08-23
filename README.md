@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Earlpride
 - 👀 I’m interested in ... coding and conspiracy theories
 - 🌱 I’m currently learning ... WebDev, C++ and Rust
-- 💞️ I’m looking to collaborate on ... I don't, I'm shy
+- 💞️ I’m looking to collaborate on ... nothing, I'm shy
 - 📫 How to reach me ... please don't
