@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artem!
 - 👀 I’m interested in ... low-level programming and software development.
-- 🌱 I’m currently learning ... WebDev, Java and C++.
+- 🌱 I’m currently learning ... WebDev, Java and using AI-tools.
 - 💞️ I’m looking to collaborate on ... nothing at the moment.
 - 📫 How to reach me ... if you are reading this, you probably already know how to reach me.
 
