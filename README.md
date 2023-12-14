@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Artem!
-- :briefcase: I'm currently employed as a java software developer.
+- :briefcase: I'm currently employed as a Java software developer working mainly with Quarkus.
 - 👀 I’m interested in ... low-level programming and software development.
-- 🌱 I’m currently learning ... Quarkus, Jakarta EE, and databases.
-- 💞️ I’m looking to collaborate on ... nothing at the moment.
+- 🌱 I’m currently learning ... Quarkus, Java EE, REST, microservices, Gradle, Hibernate, MongoDB, and Reactive Programming.
 - 📫 How to reach me ... if you are reading this, you probably already know how to reach me.
